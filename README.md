@@ -1,15 +1,31 @@
-# Привет, я Давид! 👋
+# Hi there, I'm Davyd Pylypchuk! 👋
 
-### Lead Mining Engineer | PhD Candidate | Data Analytics Enthusiast
+### Lead Mining Engineer | PhD Candidate | Data & Stochastic Optimization
 
-Я профессиональный горный инженер, который сейчас переносит свой опыт управления сложными процессами в мир данных.
+I am a professional engineer with over 4 years of experience in the mining industry, currently bridging the gap between heavy industry operations and modern Data Analytics. My focus is on leveraging data to optimize complex processes and decision-making.
 
-- ⚒️ **Expertise:** Горная промышленность, стохастическая оптимизация (тема моей диссертации).
-- 📊 **Data Stack:** SQL (SQLite/PostgreSQL), Python (Pandas), GitHub.
-- 🎯 **Goal:** Использование Data Science для оптимизации процессов добычи и производства.
+---
 
-### Мои проекты:
-* [Анализ футбольных тренеров (SQL)]([[ссылка_на_твой_проект](https://github.com/Daviddip1/football-coaches-sql-analysis.git)] — мой первый кейс по очистке и анализу данных.
+## 🚀 About Me
+- ⚒️ **Current Role:** Lead Mining Engineer & PhD Candidate.
+- 🎓 **Research:** Focused on **Stochastic Optimization** for mining systems.
+- 📊 **Transitioning to Data:** Actively building a portfolio in Data Analytics to apply machine learning and advanced SQL to industrial challenges.
+- ♟️ **Hobbies:** Chess player and football fan (Real Madrid).
 
-### Контакты:
-[LinkedIn][(https://www.linkedin.com/in/davyd-p-86380b2b0/)] | [Email](твой_адрес)
+## 🛠 Tech Stack
+- **Data Analysis:** SQL (SQLite, PostgreSQL), Python (Pandas, NumPy).
+- **Mining Engineering:** Open-pit mining design, IPCC systems, Stochastic modeling.
+- **Tools:** Git, GitHub, DB Browser for SQLite.
+
+## 📈 Featured Projects
+### [Football Coaches Demographics Analysis (SQL)](ССЫЛКА_НА_ТВОЙ_ПРОЕКТ)
+*Exploratory Data Analysis (EDA) of a coaching dataset. Focus on data cleaning, age demographics, and national representation using complex SQL queries.*
+
+---
+
+## 📊 GitHub Stats
+![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=radical)
+
+## 📫 Connect with me:
+[LinkedIn](ССЫЛКА_НА_ТВОЙ_LINKEDIN) | [Email](mailto:ТВОЙ_EMAIL)
