@@ -24,10 +24,8 @@ I am a professional engineer with over 4 years of experience in the mining indus
 ---
 
 ## 📊 GitHub Stats
-![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviddip1
-&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddip1
-Т&layout=compact&theme=radical)
+![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviddip1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddip1&layout=compact&theme=radical)
 
 ## 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/davyd-p-86380b2b0/) | [Email](mailto:pilipchuk.david@gmail.com)
