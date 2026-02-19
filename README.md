@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Давид! 👋
 
-<!--
-**Daviddip1/Daviddip1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Lead Mining Engineer | PhD Candidate | Data Analytics Enthusiast
 
-Here are some ideas to get you started:
+Я профессиональный горный инженер, который сейчас переносит свой опыт управления сложными процессами в мир данных.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚒️ **Expertise:** Горная промышленность, стохастическая оптимизация (тема моей диссертации).
+- 📊 **Data Stack:** SQL (SQLite/PostgreSQL), Python (Pandas), GitHub.
+- 🎯 **Goal:** Использование Data Science для оптимизации процессов добычи и производства.
+
+### Мои проекты:
+* [Анализ футбольных тренеров (SQL)](ссылка_на_твой_проект) — мой первый кейс по очистке и анализу данных.
+
+### Контакты:
+[LinkedIn]([твоя_ссылка](https://www.linkedin.com/in/davyd-p-86380b2b0/)) | [Email](твой_адрес)
