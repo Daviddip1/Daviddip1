@@ -17,15 +17,16 @@ I am a professional engineer with over 4 years of experience in the mining indus
 - **Mining Engineering:** Open-pit mining design, IPCC systems, Stochastic modeling.
 - **Tools:** Git, GitHub, DB Browser for SQLite.
 
-## 📈 Featured Projects
-### [Football Coaches Demographics Analysis (SQL)](ВСТАВЬ_ССЫЛКУ_НА_ПРОЕКТ_ТУТ)
-*Exploratory Data Analysis (EDA) of a coaching dataset. Focus on data cleaning, age demographics, and national representation using complex SQL queries.*
-
----
-
 ## 📊 GitHub Stats
+
 ![Davyd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daviddip1&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddip1&layout=compact&theme=radical)
 
+## 📈 Featured Projects
+
+### [Football Coaches Demographics Analysis (SQL)](https://github.com/Daviddip1/football-coaches-sql-analysis)
+*Exploratory Data Analysis (EDA) of a coaching dataset. Focus on data cleaning, age demographics, and national representation using complex SQL queries.*
+
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/davyd-p-86380b2b0/) | [Email](mailto:pilipchuk.david@gmail.com)[Email](mailto:pilipchuk.david@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/davyd-p-86380b2b0/) | [Email](mailto:pilipchuk.david@gmail.com)
