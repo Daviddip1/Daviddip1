@@ -28,4 +28,4 @@ I am a professional engineer with over 4 years of experience in the mining indus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddip1&layout=compact&theme=radical)
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/davyd-p-86380b2b0/) | [Email](mailto:pilipchuk.david@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/davyd-p-86380b2b0/) | [Email](mailto:pilipchuk.david@gmail.com)[Email](mailto:pilipchuk.david@gmail.com)
