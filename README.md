@@ -10,7 +10,7 @@ I am a professional engineer with over 4 years of experience in the mining indus
 - ⚒️ **Current Role:** Lead Mining Engineer & PhD Candidate.
 - 🎓 **Research:** Focused on **Stochastic Optimization** for mining systems.
 - 📊 **Transitioning to Data:** Actively building a portfolio in Data Analytics to apply machine learning and advanced SQL to industrial challenges.
-- ♟️ **Hobbies:** Chess player and football fan (Real Madrid).
+- ♟️ **Hobbies:** Chess player and football fan (BARCELONA).
 
 ## 🛠 Tech Stack
 - **Data Analysis:** SQL (SQLite, PostgreSQL), Python (Pandas, NumPy).
@@ -28,4 +28,4 @@ I am a professional engineer with over 4 years of experience in the mining indus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=radical)
 
 ## 📫 Connect with me:
-[LinkedIn](ССЫЛКА_НА_ТВОЙ_LINKEDIN) | [Email](mailto:ТВОЙ_EMAIL)
+[LinkedIn]([[ССЫЛКА_НА_ТВОЙ_LINKEDIN](https://www.linkedin.com/in/davyd-p-86380b2b0/)] | [Email](pilipchuk.david@gmail.com)
