@@ -15,12 +15,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Daviddip1&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddip1&layout=compact&theme=radical)
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daviddip1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddip1&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ## 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/davyd-p-86380b2b0/) | [Email](mailto:pilipchuk.david@gmail.com)
