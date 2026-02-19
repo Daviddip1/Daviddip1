@@ -12,7 +12,8 @@ I am a professional engineer with over 4 years of experience in the mining indus
 
 ### [Football Coaches Demographics Analysis (SQL)](https://github.com/Daviddip1/football-coaches-sql-analysis)
 *Exploratory Data Analysis (EDA) of a coaching dataset. Focus on data cleaning, age demographics, and national representation using complex SQL queries.*
-
+### [FIFA/FC Players Potential Analysis (SQL + Python)](https://github.com/Daviddip1/fifa-data-analysis)
+*Пошук та візуалізація найбільш перспективних молодих талантів. Використано SQL для розрахунку метрики росту та Seaborn для побудови аналітичних звітів.*
 ---
 
 ## 📫 Connect with me:
