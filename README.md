@@ -1,12 +1,12 @@
-# Привет, я Давид! 👋
+# Hi there, I'm Davyd Pylypchuk! 👋
 
 ### Lead Mining Engineer | PhD Candidate | Data Analytics Enthusiast
 
-Я профессиональный горный инженер, который сейчас переносит свой опыт управления сложными процессами в мир данных.
+I am a professional engineer with over 4 years of experience in the mining industry, currently bridging the gap between heavy industry operations and modern Data Analytics. My focus is on leveraging data to optimize complex processes and decision-making.
 
-- ⚒️ **Expertise:** Горная промышленность, стохастическая оптимизация (тема моей диссертации).
+- ⚒️ **Expertise:** Mining engineering, stochastic optimization (my PhD dissertation topic).
 - 📊 **Data Stack:** SQL (SQLite/PostgreSQL), Python (Pandas), GitHub.
-- 🎯 **Goal:** Использование Data Science для оптимизации процессов добычи и производства.
+- 🎯 **Goal:** Implementing Data Science to optimize extraction and production processes.
 
 ## 📈 Featured Projects
 
@@ -14,11 +14,6 @@
 *Exploratory Data Analysis (EDA) of a coaching dataset. Focus on data cleaning, age demographics, and national representation using complex SQL queries.*
 
 ---
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Daviddip1&show_icons=true&theme=radical" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviddip1&layout=compact&theme=radical" width="400" />
 
 ## 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/davyd-p-86380b2b0/) | [Email](mailto:pilipchuk.david@gmail.com)
