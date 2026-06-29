@@ -1,19 +1,23 @@
 # Hi there, I'm Davyd Pylypchuk! 👋
 
-### Lead Mining Engineer | PhD Candidate | Data Analytics Enthusiast
+### Head of Data & Risk @ AgriLumen | PhD Researcher in Stochastic Modeling | Data Analyst
 
-I am a professional engineer with over 4 years of experience in the mining industry, currently bridging the gap between heavy industry operations and modern Data Analytics. My focus is on leveraging data to optimize complex processes and decision-making.
+I am the Head of Data & Risk at AgriLumen, where we are currently developing the MVP-2 of our SaaS platform for agricultural risk management. 
 
-- ⚒️ **Expertise:** Mining engineering, stochastic optimization (my PhD dissertation topic).
-- 📊 **Data Stack:** SQL (SQLite/PostgreSQL), Python (Pandas), GitHub.
-- 🎯 **Goal:** Implementing Data Science to optimize extraction and production processes.
+My background is rooted in deep technical engineering and mathematics. With 4 years of professional experience in complex industrial planning and resource optimization, I am also pursuing a PhD focused on stochastic modeling. I specialize in bridging the gap between heavy mathematical algorithms, data analytics, and scalable business solutions.
 
-## 📈 Featured Projects
+- 📈 **Current Focus:** Building predictive risk models and financial algorithms for AgriLumen.
+- 🛠️ **Tech Stack:** Python (Pandas, Seaborn), SQL (SQLite/PostgreSQL), Power BI, VBA.
+- 🧠 **Expertise:** Data Analytics, Stochastic Modeling, Complex Process Optimization.
+
+## 📊 Featured Projects
 
 ### [Football Coaches Demographics Analysis (SQL)](https://github.com/Daviddip1/football-coaches-sql-analysis)
 *Exploratory Data Analysis (EDA) of a coaching dataset. Focus on data cleaning, age demographics, and national representation using complex SQL queries.*
+
 ### [FIFA/FC Players Potential Analysis (SQL + Python)](https://github.com/Daviddip1/fifa-data-analysis)
-*Пошук та візуалізація найбільш перспективних молодих талантів. Використано SQL для розрахунку метрики росту та Seaborn для побудови аналітичних звітів.*
+*Identification and visualization of the most promising young talents. Utilized SQL for growth metric calculations and Pandas/Seaborn for analytical reporting.*
+
 ---
 
 ## 📫 Connect with me:
